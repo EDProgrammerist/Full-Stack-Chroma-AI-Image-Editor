@@ -1,5 +1,4 @@
 # Full Stack AI Image Editor with Next JS, Fabric.js, Tailwind, ImageKit, Shadcn UI🔥🔥
-## https://www.tiktok.com/@ancientprogrammerist/video/7575101626663456018
 <img width="1470" alt="Landing Page" src="https://github.com/EDProgrammerist/Full-Stack-Chroma-AI-Image-Editor/blob/master/public/Preview.png?raw=true" />
 
 ### Make sure to create a `.env` file with following variables -
